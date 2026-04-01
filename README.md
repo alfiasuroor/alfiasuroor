@@ -9,13 +9,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfiasuroor)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alfiasuroor)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfiasuroor005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfia@gmail.com)
 
 </div>
 
 ---
 
-## About Me - Alfia Suroor
+## 🌸 About Me
 
 🎓 AI & Data Science Undergraduate based in **Hyderabad, India 🇮🇳**
 
@@ -103,24 +103,13 @@ A machine learning system that estimates house prices based on key features like
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alfiasuroor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a18cd1&icon_color=fbc2eb" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfiasuroor&layout=compact&theme=tokyonight&hide_border=true&title_color=a18cd1" height="170"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=alfiasuroor&theme=tokyonight&hide_border=true&ring=a18cd1&fire=fbc2eb&currStreakLabel=a18cd1)](https://github.com/alfiasuroor)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alfiasuroor&theme=tokyonight&hide_border=true&ring=a18cd1&fire=fbc2eb&currStreakLabel=a18cd1)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alfiasuroor&theme=tokyo-night&hide_border=true&color=a18cd1&line=fbc2eb&point=ffffff)
 
 </div>
-
----
-
-## 🏅 Certifications & Achievements
-
-- 🎓 **[Certification Name]** — Coursera / DeepLearning.AI *(Year)*
-- 📜 **[Certification Name]** — Google / IBM / Microsoft *(Year)*
-- 🥇 **[Hackathon / Competition]** — Placed **Top X** out of Y teams
-- 🏆 **[Kaggle Competition / College Project Award]** *(Year)*
 
 ---
 
@@ -143,7 +132,7 @@ I'm always excited to collaborate on **data projects**, **ML experiments**, and 
 Whether you want to chat about data, brainstorm ideas, or build something cool — I'm in! 🌸
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfiasuroor)
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfia@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfiasuroor005@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Find_me_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alfiasuroor)
 
 </div>
