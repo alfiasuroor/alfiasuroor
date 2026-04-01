@@ -15,27 +15,18 @@
 
 ---
 
-## 🌸 About Me
+## About Me - Alfia Suroor
 
-```python
-class Alfia(AIStudent):
-    def __init__(self):
-        self.name        = "Alfia Suroor"
-        self.role        = "AI & Data Science Undergraduate"
-        self.location    = "Mumbai, India 🇮🇳"
-        self.focus       = ["Machine Learning", "Deep Learning",
-                            "Data Analytics", "Data Visualization"]
-        self.languages   = ["Python", "R", "SQL"]
-        self.currently   = "Exploring the intersection of data and intelligence"
-        self.learning    = ["Deep Learning Architectures", "MLOps", "Statistical Modelling"]
-        self.fun_fact    = "I find patterns in data before I find them in life 😄"
+🎓 AI & Data Science Undergraduate based in **Hyderabad, India 🇮🇳**
 
-    def say_hi(self):
-        print("Hey there! I'm Alfia — let's turn data into something meaningful 🚀")
+I'm passionate about using data and machine learning to solve real-world problems. From building predictive models to crafting visual stories with data — I love every step of the process.
 
-me = Alfia()
-me.say_hi()
-```
+- 🔭 Currently working on **ML & Data Analytics projects**
+- 🌱 Learning **Deep Learning Architectures, MLOps & Statistical Modelling**
+- 💡 Interested in **Machine Learning, Deep Learning, Data Analytics & Visualization**
+- 🛠️ Working with **Python, R, SQL, TensorFlow & PyTorch**
+- 😄 Fun fact: *I find patterns in data before I find them in life!*
+- 💬 Ask me about **data pipelines, ML models, or dashboard design**
 
 ---
 
@@ -96,31 +87,15 @@ me.say_hi()
 
 ## 📌 Featured Projects
 
-> 🔧 *Swap these out with your actual projects — the structure is ready!*
+> 💡 *More projects coming soon — stay tuned!*
 
-### 📉 [Project 1 — Customer Churn Prediction](https://github.com/alfiasuroor/project1)
+### 🏠 [House Price Prediction](https://github.com/alfiasuroor/house-price-prediction)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-End-to-end ML pipeline to predict customer churn using logistic regression and random forest. Achieved **X% accuracy** with key feature insights visualized via Seaborn dashboards.
-
----
-
-### 📊 [Project 2 — Sales Analytics Dashboard](https://github.com/alfiasuroor/project2)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-Interactive Power BI dashboard analyzing X months of sales data, uncovering **Y% revenue trends** and regional performance insights for business decision-making.
-
----
-
-### 🧠 [Project 3 — Deep Learning Image Classifier](https://github.com/alfiasuroor/project3)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-
-CNN-based image classifier trained on a custom dataset, achieving **X% validation accuracy** using data augmentation and transfer learning with VGG16.
+A machine learning system that estimates house prices based on key features like **location, size, number of bedrooms, bathrooms**, and more. Built an end-to-end regression pipeline covering data preprocessing, feature engineering, model training, and evaluation.
 
 ---
 
@@ -137,6 +112,15 @@ CNN-based image classifier trained on a custom dataset, achieving **X% validatio
 [![GitHub Streak](https://streak-stats.demolab.com?user=alfiasuroor&theme=tokyonight&hide_border=true&ring=a18cd1&fire=fbc2eb&currStreakLabel=a18cd1)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+- 🎓 **[Certification Name]** — Coursera / DeepLearning.AI *(Year)*
+- 📜 **[Certification Name]** — Google / IBM / Microsoft *(Year)*
+- 🥇 **[Hackathon / Competition]** — Placed **Top X** out of Y teams
+- 🏆 **[Kaggle Competition / College Project Award]** *(Year)*
 
 ---
 
@@ -159,7 +143,7 @@ I'm always excited to collaborate on **data projects**, **ML experiments**, and 
 Whether you want to chat about data, brainstorm ideas, or build something cool — I'm in! 🌸
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfiasuroor)
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfiasuroor005@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfia@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Find_me_on_Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alfiasuroor)
 
 </div>
